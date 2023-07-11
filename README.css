@@ -1,0 +1,10 @@
+button {
+display: flex;
+width: 250px;
+padding: 10px 16px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: var(--ainqa-design-primary, #01205C);
+}
